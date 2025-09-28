@@ -17,7 +17,8 @@ This tool helps administrators validate their SMTP setup quickly and easily, sav
 ---
 
 ## 🖥️ Demo Screenshot
-*(Add your screenshot here)*  
+
+<img width="800" height="542" alt="Smtp-test" src="https://github.com/user-attachments/assets/9552636c-fdd0-4353-8bae-f4caffd89856" />
 
 ---
 
